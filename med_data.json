@@ -1,0 +1,600 @@
+[{
+    "prompt": "i have Pain chest, Shortness of breath, Dizziness, Asthenia, Fall, Syncope, Vertigo, Sweat, Sweating increased, Palpitation, Nausea, Angina pectoris, Pressure chest",
+    "response": "you might be suffering from Hypertensive disease"
+},
+{
+    "prompt": "i have Fever, Dry cough, Tired, Pain, Throat sore, Diarrhea, Headache, Loss of taste or smell, Out of breath, Pain chest, Pressure chest",
+    "response": "you might be suffering from Coronavirus disease 2019"
+},
+{
+    "prompt": "i have Polyuria, Polydypsia, Shortness of breath, Pain chest, Asthenia, Nausea, Orthopnea, Rale, Sweat, Sweating increased, Unresponsiveness, Mental status changes, Vertigo, Vomiting, Labored breathing",
+    "response": "you might be suffering from Diabetes"
+},
+{
+    "prompt": "i have Feeling suicidal, Suicidal, Hallucinations auditory, Feeling hopeless, Weepiness, Sleeplessness, Motor retardation, Irritable mood, Blackout, Mood depressed, Hallucinations visual, Worry, Agitation, Tremor, Intoxication, Verbal auditory hallucinations, Energy increased, Difficulty, Nightmare, Unable to concentrate, Homelessness",
+    "response": "you might be suffering from Depression mental"
+},
+{
+    "prompt": "i have Feeling suicidal, Suicidal, Hallucinations auditory, Feeling hopeless, Weepiness, Sleeplessness, Motor retardation, Irritable mood, Blackout, Mood depressed, Hallucinations visual, Worry, Agitation, Tremor, Intoxication, Verbal auditory hallucinations, Energy increased, Difficulty, Nightmare, Unable to concentrate, Homelessness",
+    "response": "you might be suffering from Depressive disorder"
+},
+{
+    "prompt": "i have Pain chest, Angina pectoris, Shortness of breath, Hypokinesia, Sweat, Sweating increased, Pressure chest, Dyspnea on exertion, Orthopnea, Chest tightness",
+    "response": "you might be suffering from Coronary arteriosclerosis"
+},
+{
+    "prompt": "i have Pain chest, Angina pectoris, Shortness of breath, Hypokinesia, Sweat, Sweating increased, Pressure chest, Dyspnea on exertion, Orthopnea, Chest tightness",
+    "response": "you might be suffering from Coronary heart disease"
+},
+{
+    "prompt": "i have Cough, Fever, Decreased translucency, Shortness of breath, Rale, Productive cough, Pleuritic pain, Yellow sputum, Breath sounds decreased, Chill, Rhonchus, Green sputum, Non-productive cough, Wheezing, Haemoptysis, Distress respiratory, Tachypnea, Malaise, Night sweat",
+    "response": "you might be suffering from Pneumonia"
+},
+{
+    "prompt": "i have Shortness of breath, Orthopnea, Jugular venous distention, Rale, Dyspnea, Cough, Wheezing",
+    "response": "you might be suffering from Failure heart congestive"
+},
+{
+    "prompt": "i have Dysarthria, Asthenia, Speech slurred, Facial paresis, Hemiplegia, Unresponsiveness, Seizure, Numbness",
+    "response": "you might be suffering from Accident\u00a0cerebrovascular"
+},
+{
+    "prompt": "i have Wheezing, Cough, Shortness of breath, Chest tightness, Non-productive cough, Pleuritic pain, Productive cough, Symptom aggravating factors, Distress respiratory",
+    "response": "you might be suffering from Asthma"
+},
+{
+    "prompt": "i have Pain chest, St segment elevation, Sweat, Sweating increased, Shortness of breath, St segment depression, Hypokinesia, Angina pectoris, Pressure chest, T wave inverted, Orthopnea, Rale, Chest tightness, Presence of q wave, Palpitation, Dyspnea, Chest discomfort, Bradycardia, Syncope",
+    "response": "you might be suffering from Myocardial infarction"
+},
+{
+    "prompt": "i have Pain, Pain chest, Sweat, Sweating increased, Nonsmoker, Pressure chest, Syncope, Numbness, Chest discomfort, Shortness of breath, St segment depression, Worry, T wave inverted, Bradycardia, Dyspnea",
+    "response": "you might be suffering from Hypercholesterolemia"
+},
+{
+    "prompt": "i have Fever, Erythema, Decreased translucency, Hepatosplenomegaly, Chill, Pruritus, Diarrhea, Abscess bacterial, Swelling, Pain, Apyrexial, Cough",
+    "response": "you might be suffering from Infection"
+},
+{
+    "prompt": "i have Fever, Dysuria, Hematuria, Renal angle tenderness, Lethargy, Asthenia, Hyponatremia, Hemodynamically stable, Distress respiratory, Difficulty passing urine, Mental status changes, Consciousness clear",
+    "response": "you might be suffering from Infection urinary tract"
+},
+{
+    "prompt": "i have Chill, Guaiac positive, Monoclonal, Ecchymosis, Tumor cell invasion, Haemorrhage, Pallor, Asthenia, Fatigue, Heme positive, Pain back, Orthostasis, Hyponatremia, Dizziness, Shortness of breath, Pain, Rhonchus, Arthralgia, Swelling, Transaminitis",
+    "response": "you might be suffering from Anemia"
+},
+{
+    "prompt": "i have Shortness of breath, Wheezing, Cough, Dyspnea, Distress respiratory, Sputum purulent, Hypoxemia, Hypercapnia, Patient non compliance, Chest tightness",
+    "response": "you might be suffering from Chronic obstructive airway disease"
+},
+{
+    "prompt": "i have Fever, Fall, Unresponsiveness, Lethargy, Agitation, Ecchymosis, Syncope, Rale, Unconscious state, Cough, Bedridden, Bedridden, Pain, Facial paresis, Abdominal tenderness, Rhonchus, Unsteady gait, Hallucinations auditory",
+    "response": "you might be suffering from Dementia"
+},
+{
+    "prompt": "i have Shortness of breath, Hyperkalemia, Orthopnea, Rale, Urgency of\u00a0micturition, Ascites, Guaiac positive, Asthenia, Apyrexial, Mental status changes, Dyspnea, Difficulty, Diarrhea, Hypotension, Breath sounds decreased, Swelling, Hypokinesia",
+    "response": "you might be suffering from Insufficiency renal"
+},
+{
+    "prompt": "i have Seizure, Enuresis, Lethargy, Speech slurred, Fall, Consciousness clear, Mental status changes, Asterixis, Unconscious state, Agitation, Muscle twitch, Asthenia, Sleepy, Dizziness, Headache, Dysarthria, Lightheadedness, Tremor, Hyponatremia, Unresponsiveness",
+    "response": "you might be suffering from Confusion"
+},
+{
+    "prompt": "i have Pain, Food intolerance, Numbness of hand, General discomfort, Drowsiness, Asthenia, Nonsmoker, Non-productive cough, Polydypsia, Stiffness, Unsteady gait",
+    "response": "you might be suffering from Degenerative\u00a0polyarthritis"
+},
+{
+    "prompt": "i have Shortness of breath, Prostatism, Drowsiness, Sleepy, Hyponatremia, Fall, Unsteady gait, Polyuria, Hypotension, Difficulty, Syncope, Nightmare, Speech slurred, Weight gain, Asthenia, Fatigue, Tired, Agitation, Mental status changes, Motor retardation, Vomiting, Numbness, Mass of body structure",
+    "response": "you might be suffering from Hypothyroidism"
+},
+{
+    "prompt": "i have Worry, Feeling suicidal, Suicidal, Sleeplessness, Feeling hopeless, Irritable mood, Tremor, Blackout, Weepiness, Has religious belief, Nervousness, Hallucinations visual, Formication, Difficulty, Pain chest, Patient non compliance, Agitation, Palpitation, Hallucinations auditory, Mood depressed, Hot flush, Pain, Consciousness clear, Nightmare",
+    "response": "you might be suffering from Anxiety state"
+},
+{
+    "prompt": "i have Pain, Mass of body structure, Lesion, Cushingoid facies, Cushingoid\u00a0habitus, Emphysematous change, Decreased body weight, Ascites, Hoarseness, Thicken, Hematuria",
+    "response": "you might be suffering from Malignant neoplasms"
+},
+{
+    "prompt": "i have Pain, Mass of body structure, Lesion, Cushingoid facies, Cushingoid\u00a0habitus, Emphysematous change, Decreased body weight, Ascites, Hoarseness, Thicken, Hematuria",
+    "response": "you might be suffering from Primary malignant neoplasm"
+},
+{
+    "prompt": "i have Fever, Night sweat, Spontaneous rupture of membranes, Cough, , Decreased body weight, Chill, Diarrhea, Pleuritic pain, Patient non compliance, Tachypnea, Productive cough, Muscle hypotonia, Hypotonic, Feeling suicidal",
+    "response": "you might be suffering from Acquired\u00a0immuno-deficiency syndrome"
+},
+{
+    "prompt": "i have Fever, Night sweat, Spontaneous rupture of membranes, Cough, , Decreased body weight, Chill, Diarrhea, Pleuritic pain, Patient non compliance, Tachypnea, Productive cough, Muscle hypotonia, Hypotonic, Feeling suicidal",
+    "response": "you might be suffering from Hiv"
+},
+{
+    "prompt": "i have Fever, Night sweat, Spontaneous rupture of membranes, Cough, , Decreased body weight, Chill, Diarrhea, Pleuritic pain, Patient non compliance, Tachypnea, Productive cough, Muscle hypotonia, Hypotonic, Feeling suicidal",
+    "response": "you might be suffering from Hiv infections"
+},
+{
+    "prompt": "i have Erythema, Pain, Swelling, Redness, Fever, Abscess bacterial, Patient non compliance, Hypesthesia, Hyperacusis, Pruritus, Pain chest, Scratch marks, Chill, Sore to touch",
+    "response": "you might be suffering from Cellulitis"
+},
+{
+    "prompt": "i have Pain, Pain chest, Burning sensation, Hyponatremia, Satiety early, Throbbing sensation quality, Chest tightness, Sensory discomfort, Presence of q wave, Nausea, General discomfort, Constipation, Palpitation, Pain abdominal, Heartburn, Sweat, Sweating increased, Asthenia",
+    "response": "you might be suffering from Gastroesophageal reflux disease"
+},
+{
+    "prompt": "i have Fever, Distress respiratory, Hypotension, Tachypnea, Chill, Lethargy, Bradycardia, Breech presentation, Cyanosis, Spontaneous rupture of membranes, Haemorrhage, Unresponsiveness, Rale, Apyrexial",
+    "response": "you might be suffering from Septicemia"
+},
+{
+    "prompt": "i have Fever, Distress respiratory, Hypotension, Tachypnea, Chill, Lethargy, Bradycardia, Breech presentation, Cyanosis, Spontaneous rupture of membranes, Haemorrhage, Unresponsiveness, Rale, Apyrexial",
+    "response": "you might be suffering from Systemic infection"
+},
+{
+    "prompt": "i have Fever, Distress respiratory, Hypotension, Tachypnea, Chill, Lethargy, Bradycardia, Breech presentation, Cyanosis, Spontaneous rupture of membranes, Haemorrhage, Unresponsiveness, Rale, Apyrexial",
+    "response": "you might be suffering from Sepsis invertebrate"
+},
+{
+    "prompt": "i have Swelling, Pain, Ecchymosis, Shortness of breath, Pain in lower limb, Cardiomegaly, Rale, Erythema, Hypotension, Clonus, Non-productive cough, Redness",
+    "response": "you might be suffering from Deep vein thrombosis"
+},
+{
+    "prompt": "i have Fever, Diarrhea, Vomiting, Hypotension, Nausea, Lightheadedness, Unwell, Mental status changes, Anorexia, Asthenia, Sensory discomfort, Syncope, Lethargy, Dizziness, Syncope, Blackout, History of - blackout",
+    "response": "you might be suffering from Dehydration"
+},
+{
+    "prompt": "i have Mass of body structure, Lesion, Pain chest, Hematuria, Tumor cell invasion, Pain, Anosmia, Thicken, Metastatic lesion, Food intolerance, Decreased body weight, Night sweat, Hemianopsia homonymous, Satiety early, Pain abdominal, Headache",
+    "response": "you might be suffering from Neoplasm"
+},
+{
+    "prompt": "i have Shortness of breath, Hypoxemia, Tachypnea, Hematocrit decreased, Pain chest, Dyspnea, Pleuritic pain, Neck stiffness, Yellow sputum, Productive cough, Cicatrisation, Unresponsiveness, Distress respiratory, Wheezing, Apyrexial, Non-productive cough",
+    "response": "you might be suffering from Embolism pulmonary"
+},
+{
+    "prompt": "i have Seizure, Hypometabolism, Aura, Muscle twitch, Drowsiness, Tremor, Unresponsiveness, Hemiplegia, Myoclonus, Gurgle, Sleepy, Lethargy, Wheelchair bound",
+    "response": "you might be suffering from Epilepsy"
+},
+{
+    "prompt": "i have Shortness of breath, Orthopnea, Hypokinesia, Jugular venous distention, Palpitation, Pain chest, Syncope, Yellow sputum, Rale, Dyspnea, Dyspnea on exertion, Left\u00a0atrial\u00a0hypertrophy, Fatigue, Weight gain, Patient non compliance",
+    "response": "you might be suffering from Cardiomyopathy"
+},
+{
+    "prompt": "i have Vomiting, Orthopnea, Hyperkalemia, Oliguria, Jugular venous distention, Nausea, Shortness of breath, Mental status changes, Diarrhea, Asthenia, Chest tightness, Malaise, Chill, Rale, Fever, Pleuritic pain, Apyrexial, Guaiac positive, Swelling, Catatonia, Unresponsiveness, Yellow sputum",
+    "response": "you might be suffering from Chronic kidney failure"
+},
+{
+    "prompt": "i have Mass of body structure, Pain, Lesion, Tumor cell invasion, Thicken, Decreased body weight, Hoarseness, General discomfort, Metastatic lesion, Non-productive cough, Constipation, Unhappy, Paresthesia, Gravida 0, Diarrhea, Sore to touch, Heartburn, Nausea, Lung nodule",
+    "response": "you might be suffering from Carcinoma"
+},
+{
+    "prompt": "i have Ascites, Distended abdomen, Feeling suicidal, Cough, Ache, Macerated skin, Heavy feeling, Hallucinations auditory, Chill, Asterixis, Patient non compliance",
+    "response": "you might be suffering from Hepatitis c"
+},
+{
+    "prompt": "i have Shortness of breath, Rest pain, Angina pectoris, Unresponsiveness, Hyperkalemia, Sinus rhythm, Labored breathing, Dyspnea, Sore to touch, Anorexia, Sleepy",
+    "response": "you might be suffering from Peripheral vascular disease"
+},
+{
+    "prompt": "i have Suicidal, Hallucinations auditory, Feeling suicidal, Hallucinations visual, Motor retardation, Blackout, Verbal auditory hallucinations, Feeling hopeless, Irritable mood, Agitation, Tremor, Catatonia, Weepiness, Homelessness, Sleeplessness, Withdraw, Energy increased, Intoxication, Worry, Behavior hyperactive, Patient non compliance, Mood depressed, Terrify, Nightmare, Consciousness clear",
+    "response": "you might be suffering from Psychotic disorder"
+},
+{
+    "prompt": "i have Pain chest, Angina pectoris, Palpitation, Presence of q wave, Photopsia, Sweat, Sweating increased, Chest discomfort, Shortness of breath, Giddy mood, Hypokinesia, Hemiplegia, Dizziness",
+    "response": "you might be suffering from Hyperlipidemia"
+},
+{
+    "prompt": "i have Feeling suicidal, Energy increased, Suicidal, Irritable mood, Agitation, Has religious belief, Disturbed family, Hallucinations auditory, Verbal auditory hallucinations, Weepiness, Behavior hyperactive, Catatonia, Feeling hopeless, Worry, Sleeplessness, Hypersomnia, Difficulty, Hallucinations visual, Hyperhidrosis disorder, Mydriasis, Extrapyramidal sign, Loose associations, Intoxication, Motor retardation, Homelessness, Blackout, Tremor, Exhaustion",
+    "response": "you might be suffering from Bipolar disorder"
+},
+{
+    "prompt": "i have Pain, Catatonia, Snore, Pain chest, R wave feature, Has religious belief, Shortness of breath, Fatigue, Tired, Overweight, Systolic murmur, Mood depressed, Ecchymosis",
+    "response": "you might be suffering from Obesity"
+},
+{
+    "prompt": "i have Drowsiness, Sleepy, Pain chest, Angina pectoris, Pressure chest, Chest discomfort, Shortness of breath, Dyspnea, Sinus rhythm, Bradycardia, Sweat, Sweating increased, Rale, Asymptomatic, Anorexia",
+    "response": "you might be suffering from Ischemia"
+},
+{
+    "prompt": "i have Ascites, Fall, Splenomegaly, Pruritus, Pain abdominal, Tumor cell invasion, Distended abdomen, Lesion, Hemodynamically stable, Guaiac positive, Sore to touch, Bleeding of vagina",
+    "response": "you might be suffering from Cirrhosis"
+},
+{
+    "prompt": "i have Fever, Pruritus, Macule, Lesion, Redness, Headache, Apyrexial, Arthralgia, Swelling, Erythema, Photophobia, Chill, Scratch marks, Pain, Painful swallowing",
+    "response": "you might be suffering from Exanthema"
+},
+{
+    "prompt": "i have Mental status changes, Cachexia, Blackout, Orthostasis, Orthopnea, Night sweat, Distress respiratory, Anorexia, Dysarthria",
+    "response": "you might be suffering from Benign prostatic hypertrophy"
+},
+{
+    "prompt": "i have Hyperkalemia, Hypotension, Hypocalcemia result, Oliguria, Hemodynamically stable, Asthenia, Hypothermia, natural, Diarrhea, Haemorrhage, Unresponsiveness",
+    "response": "you might be suffering from Kidney failure acute"
+},
+{
+    "prompt": "i have Shortness of breath, Dyspnea on exertion, Asymptomatic, Hypokinesia, Dyspnea, Syncope, Thicken, Left\u00a0atrial\u00a0hypertrophy, Palpitation, Fatigue, Vomiting, Pain, Cardiomegaly, Chest discomfort",
+    "response": "you might be suffering from Mitral valve insufficiency"
+},
+{
+    "prompt": "i have Pain, Hemodynamically stable, Sleeplessness, Asthenia, Syncope, Swelling, Atypia, General unsteadiness, Shortness of breath, Distended abdomen",
+    "response": "you might be suffering from Arthritis"
+},
+{
+    "prompt": "i have Cough, Wheezing, Shortness of breath, Chest tightness, Fever, Throat sore, Productive cough, Hepatosplenomegaly, Night sweat, Haemoptysis, Labored breathing, Snuffle, Hacking cough, Dyspnea, Chill, Stridor, Decreased body weight",
+    "response": "you might be suffering from Bronchitis"
+},
+{
+    "prompt": "i have Dysarthria, Paresis, Asthenia, Aphagia, Seizure, Speech slurred, Focal seizures, Hemiplegia, Abnormal sensation, Unresponsiveness, Stupor, Drowsiness, Sleepy, Fremitus, Stahli's line, Stinging sensation, Paralyse, Clonus, Facial paresis",
+    "response": "you might be suffering from Hemiparesis"
+},
+{
+    "prompt": "i have Prostatism, Fall, Hirsutism, Sniffle, Distended abdomen, Vertigo, Numbness of hand, Bradykinesia, Pain, Syncope, Out of breath, Apyrexial, Urge incontinence, Lightheadedness",
+    "response": "you might be suffering from Osteoporosis"
+},
+{
+    "prompt": "i have Speech slurred, Dysarthria, Facial paresis, Asthenia, Neck stiffness, Vertigo, Numbness, Lightheadedness, Extrapyramidal sign, Stahli's line, Vision blurred, Headache, Room spinning, Syncope, Difficulty, Rambling speech, Clumsiness",
+    "response": "you might be suffering from Transient ischemic attack"
+},
+{
+    "prompt": "i have Mass of body structure, Lesion, Decreased body weight, Constipation, Fremitus, Decreased stool caliber, Satiety early, Hematochezia, Egophony, Pain, Cicatrisation, Scar tissue, Pain abdominal",
+    "response": "you might be suffering from Adenocarcinoma"
+},
+{
+    "prompt": "i have Hallucinations auditory, Hallucinations visual, Agitation, Irritable mood, Verbal auditory hallucinations, Feeling suicidal, Suicidal, Terrify, Neologism, Homelessness, Energy increased, Mood depressed, Decompensation, Cicatrisation, Scar tissue, Blackout, Loose associations",
+    "response": "you might be suffering from Paranoia"
+},
+{
+    "prompt": "i have Vomiting, Pain abdominal, Nausea, Pain, Diarrhea, Stool color yellow, Rigor - temperature-associated observation, Apyrexial, Sore to touch",
+    "response": "you might be suffering from Pancreatitis"
+},
+{
+    "prompt": "i have Paraparesis, Seizure, Asthenia, Urge incontinence, Unconscious state, Aura, Moody, Fear of falling, Tremor, Spasm, Unhappy, Syncope, Fall, Stiffness, Unresponsiveness",
+    "response": "you might be suffering from Incontinence"
+},
+{
+    "prompt": "i have Orthopnea, Shortness of breath, Dyspnea on exertion, Jugular venous distention, Rale, Pain chest, Palpitation, Sweat, Sweating increased, Weight gain, Cough, Dyspnea",
+    "response": "you might be suffering from Paroxysmal\u00a0dyspnea"
+},
+{
+    "prompt": "i have Pain abdominal, Pain, Hyperventilation, Excruciating pain, Gag, Nausea, Posturing, Hemiplegia, Sore to touch, Haemorrhage, Apyrexial, Food intolerance, Pulse absent, Asthenia, Mass of body structure, Thicken",
+    "response": "you might be suffering from Hernia"
+},
+{
+    "prompt": "i have Hematuria, Dysesthesia, Asthenia, Polymyalgia, Passed stones, Pleuritic pain, Guaiac positive, Rale, Breath sounds decreased, Urge incontinence, Dysuria, Diarrhea, Vertigo, Qt interval prolonged, Ataxia, Paresis, Hemianopsia homonymous, Tumor cell invasion, Hemodynamically stable, Mass of body structure, Rhonchus, Orthostasis, Decreased body weight",
+    "response": "you might be suffering from Malignant neoplasm of prostate"
+},
+{
+    "prompt": "i have Hematuria, Dysesthesia, Asthenia, Polymyalgia, Passed stones, Pleuritic pain, Guaiac positive, Rale, Breath sounds decreased, Urge incontinence, Dysuria, Diarrhea, Vertigo, Qt interval prolonged, Ataxia, Paresis, Hemianopsia homonymous, Tumor cell invasion, Hemodynamically stable, Mass of body structure, Rhonchus, Orthostasis, Decreased body weight",
+    "response": "you might be suffering from Carcinoma prostate"
+},
+{
+    "prompt": "i have Urgency of\u00a0micturition, Shortness of breath, Rale, Tachypnea, Orthopnea, Heberden's node, Jugular venous distention, Dyspnea, Sweat, Sweating increased, Patient non compliance, Chest discomfort, Hyperkalemia, Sinus rhythm, Pain chest, Hypotension, Wheezing",
+    "response": "you might be suffering from Edema pulmonary"
+},
+{
+    "prompt": "i have Pain, Mass of body structure, Night sweat, Splenomegaly, Lesion, Chill, Decreased body weight, Swelling, Fever, Hyperacusis, Fremitus, Non-productive cough, Egophony, Redness, Hepatomegaly, Fatigue",
+    "response": "you might be suffering from Lymphatic diseases"
+},
+{
+    "prompt": "i have Dyspnea on exertion, Syncope, Chest discomfort, Systolic murmur, Sciatica, Angina pectoris, Pain chest, Frothy sputum, Bradycardia, Shortness of breath, Pain",
+    "response": "you might be suffering from Stenosis aortic valve"
+},
+{
+    "prompt": "i have Mass in breast, Mass of body structure, Paresthesia, Retropulsion, Erythema, Difficulty, Lesion, Estrogen use, Burning sensation, Dyspnea, Swelling, Formication",
+    "response": "you might be suffering from Malignant neoplasm of breast"
+},
+{
+    "prompt": "i have Mass in breast, Mass of body structure, Paresthesia, Retropulsion, Erythema, Difficulty, Lesion, Estrogen use, Burning sensation, Dyspnea, Swelling, Formication",
+    "response": "you might be suffering from Carcinoma breast"
+},
+{
+    "prompt": "i have Hallucinations auditory, Hypersomnolence, Irritable mood, Verbal auditory hallucinations, Patient non compliance, Agitation, Suicidal, Worry, Hallucinations visual, Underweight, Underweight, Homelessness",
+    "response": "you might be suffering from Schizophrenia"
+},
+{
+    "prompt": "i have Pain abdominal, Abscess bacterial, Dullness, Red blotches, Diarrhea, Sore to touch, Dysuria, Pain, Vomiting, Sinus rhythm, Colic abdominal, Apyrexial, Abdominal tenderness, Fever, Unsteady gait, Thicken, Urgency of\u00a0micturition, Anorexia, Monoclonal, Constipation",
+    "response": "you might be suffering from Diverticulitis"
+},
+{
+    "prompt": "i have Rale, Jugular venous distention, Hyperkalemia, Orthopnea, Shortness of breath, Drowsiness, Sleepy, Weight gain, Hypokalemia, Hypotension, Swelling, Distended abdomen",
+    "response": "you might be suffering from Overload fluid"
+},
+{
+    "prompt": "i have Pain abdominal, Paraparesis, Nausea, Vomiting, Polymyalgia, Out of breath, Pain chest, Hemiplegia, Gurgle, Hunger, Apyrexial, Nervousness",
+    "response": "you might be suffering from Ulcer peptic"
+},
+{
+    "prompt": "i have Pain, Redness, Prostate tender, Fever, Difficulty passing urine, Sore to touch, Swelling, Apyrexial, Erythema, Abscess bacterial, Pain foot, Urinary hesitation",
+    "response": "you might be suffering from Osteomyelitis"
+},
+{
+    "prompt": "i have Heme positive, Pain abdominal, Vomiting, Disequilibrium, Nausea, Intoxication, Haemorrhage, Guaiac positive, Pain, Decreased body weight, Sore to touch, Dizziness",
+    "response": "you might be suffering from Gastritis"
+},
+{
+    "prompt": "i have Fever, Chill, Flushing, Unresponsiveness, Indifferent mood, Urinoma, Vomiting, Distended abdomen, Hypoalbuminemia, Pustule, Prostatism, Diarrhea, Abdominal tenderness, Pleuritic pain, Decreased translucency, Pallor",
+    "response": "you might be suffering from Bacteremia"
+},
+{
+    "prompt": "i have Orthopnea, Oliguria, Slowing of urinary stream, Extreme exhaustion, Unresponsiveness, Hypotension, Enuresis, Shortness of breath, Haemorrhage, Prostatism, No status change, Bedridden, Bedridden, Fatigue",
+    "response": "you might be suffering from Failure kidney"
+},
+{
+    "prompt": "i have Breakthrough pain, Pain back, Pain, Shortness of breath, Snuffle, Pain chest, Pain abdominal, Hepatosplenomegaly, Green sputum, Apyrexial, Headache",
+    "response": "you might be suffering from Sickle cell anemia"
+},
+{
+    "prompt": "i have Orthopnea, Fatigue, Dyspnea on exertion, Dyspnea, Shortness of breath, Pansystolic murmur, Jugular venous distention, Systolic ejection murmur, Hypotension, Angina pectoris, Hypokinesia",
+    "response": "you might be suffering from Failure heart"
+},
+{
+    "prompt": "i have Cough, Throat sore, Wheezing, Shortness of breath, Labored breathing, Fever, Stuffy nose, Non-productive cough, Snuffle, Indifferent mood, Egophony, Barking cough, Polymyalgia, Pleuritic pain, Night sweat, Dyspnea, Productive cough, Decreased translucency, Rhonchus, Rapid shallow breathing, Apyrexial, Noisy respiration, Nasal discharge present, Emphysematous change, Frail, Cystic lesion, Symptom aggravating factors, Hemodynamically stable",
+    "response": "you might be suffering from Upper respiratory infection"
+},
+{
+    "prompt": "i have Ascites, Spontaneous rupture of membranes, Tachypnea, Pain abdominal, Pruritus, Anorexia, Transaminitis, Projectile vomiting, Chill, Distress respiratory, Fever, Vomiting",
+    "response": "you might be suffering from Hepatitis"
+},
+{
+    "prompt": "i have Shortness of breath, Stahli's line, Heavy legs, Breath sounds decreased, Neck stiffness, Dyspnea on exertion, Cyanosis, Hypotension, Left\u00a0atrial\u00a0hypertrophy",
+    "response": "you might be suffering from Hypertension pulmonary"
+},
+{
+    "prompt": "i have Paresthesia, Titubation, Dysarthria, Painful swallowing, Hoarseness, Stridor, Spasm, Asthenia, Dysdiadochokinesia, Ataxia, Achalasia, Decreased body weight, Stiffness, Lesion, Side pain",
+    "response": "you might be suffering from Deglutition disorder"
+},
+{
+    "prompt": "i have Hot flush, Pain, Redness, Swelling, Erythema, Emphysematous change, Sore to touch, Hypokinesia, Ascites, Patient non compliance",
+    "response": "you might be suffering from Gout"
+},
+{
+    "prompt": "i have Ecchymosis, Monocytosis, Posterior\u00a0rhinorrhea, Haemorrhage, Tachypnea, Fever, Pruritus, Hypotension, Fatigue",
+    "response": "you might be suffering from Thrombocytopaenia"
+},
+{
+    "prompt": "i have Unresponsiveness, Hypothermia, natural, Incoherent, Qt interval prolonged, Lameness, Claudication, Unconscious state, Clammy skin, Polyuria, Distress respiratory, Hypotension",
+    "response": "you might be suffering from Hypoglycemia"
+},
+{
+    "prompt": "i have Mediastinal shift, Fever, Clonus, Mental status changes, Decreased translucency, Unresponsiveness, Extreme exhaustion, Stupor, Seizure, Transaminitis, Hemiplegia, Cough, Gurgle, Pain, Diarrhea, Pain abdominal",
+    "response": "you might be suffering from Pneumonia aspiration"
+},
+{
+    "prompt": "i have Fever, Thicken, Green sputum, Vomiting, Nausea and vomiting, Awakening early, Pain, Nausea, Chill, Tenesmus, Urge incontinence, Pain abdominal, Hemodynamically stable",
+    "response": "you might be suffering from Colitis"
+},
+{
+    "prompt": "i have Fecaluria, Constipation, Abscess bacterial, Heme positive, Lightheadedness, Diarrhea, Haemorrhage, Pain, Projectile vomiting, Pneumatouria, Cystic lesion, Anorexia, Nausea, Feeling suicidal, Feeling hopeless",
+    "response": "you might be suffering from Diverticulosis"
+},
+{
+    "prompt": "i have Hallucinations auditory, Sleeplessness, Suicidal, Motor retardation, Weepiness, Unable to concentrate, Todd paralysis, Worry, Fatigue, Tremor, Alcoholic withdrawal symptoms, Agitation, Unresponsiveness, Blackout, Withdraw, Difficulty, Irritable mood, Sensory discomfort, Drowsiness, Formication, Unconscious state, Fever, Cough",
+    "response": "you might be suffering from Suicide attempt"
+},
+{
+    "prompt": "i have Yellow sputum, Cachexia, Chill, Decreased body weight, Productive cough, Myalgia, Diarrhea, Neck stiffness, Hacking cough, Dyspareunia, Hypokalemia, Dyspnea on exertion, Poor dentition, Transaminitis, Non-productive cough, Headache, Floppy, Spontaneous rupture of membranes",
+    "response": "you might be suffering from Pneumocystis\u00a0carinii\u00a0pneumonia"
+},
+{
+    "prompt": "i have Inappropriate affect, Tachypnea, Yellow sputum, Projectile vomiting, Poor feeding, Pain abdominal, Abdominal tenderness, Wheelchair bound, Moan",
+    "response": "you might be suffering from Hepatitis b"
+},
+{
+    "prompt": "i have Achalasia, Fall, Stiffness, Withdraw, Agitation, Hemiplegia, Difficulty, Unresponsiveness, Syncope, Facial paresis, Orthostasis, Worry, Drowsiness, Sleepy, Hematuria, Tremor, Night sweat, Mass of body structure",
+    "response": "you might be suffering from Parkinson disease"
+},
+{
+    "prompt": "i have Lesion, Fever, Welt, Transaminitis, Decreased body weight, Ataxia, Tinnitus, Hydropneumothorax, Superimposition, Haemoptysis, Fatigue, Tired, Polydypsia, Difficulty passing urine",
+    "response": "you might be suffering from Lymphoma"
+},
+{
+    "prompt": "i have Sore to touch, Pruritus, Feeling strange, Pustule, Cushingoid facies, Cushingoid\u00a0habitus, Decreased body weight, Mood depressed, Estrogen use, Wheezing, Ascites, Seizure",
+    "response": "you might be suffering from Hyperglycemia"
+},
+{
+    "prompt": "i have Uncoordination, Asterixis, Haemorrhage, Drowsiness, Sleepy, Absences finding, Posturing, Aura, Tonic seizures, Debilitation, Consciousness clear, Unresponsiveness, Thicken, Hypokinesia",
+    "response": "you might be suffering from Encephalopathy"
+},
+{
+    "prompt": "i have Shortness of breath, Pain, Vomiting, Nausea, Bradycardia, Pain abdominal, Fever, Cicatrisation, Mediastinal shift, Impaired cognition",
+    "response": "you might be suffering from Tricuspid valve insufficiency"
+},
+{
+    "prompt": "i have Drool, Agitation, Nightmare, Rhonchus, Consciousness clear, Pin-point pupils, Bedridden, Bedridden, Frail, Tremor resting, Hyperkalemia, Facial paresis, Groggy, Muscle twitch, Wheelchair bound, Tremor, Cough, Fever",
+    "response": "you might be suffering from Alzheimer's disease"
+},
+{
+    "prompt": "i have Diarrhea, Throat sore, Decreased body weight, Chill, Headache, Abdominal tenderness, Patient non compliance, Photophobia, Night sweat, Painful swallowing, Poor dentition, Transaminitis, Non-productive cough, Adverse reaction, Adverse effect, Abdominal bloating",
+    "response": "you might be suffering from Candidiasis"
+},
+{
+    "prompt": "i have Diarrhea, Throat sore, Decreased body weight, Chill, Headache, Abdominal tenderness, Patient non compliance, Photophobia, Night sweat, Painful swallowing, Poor dentition, Transaminitis, Non-productive cough, Adverse reaction, Adverse effect, Abdominal bloating",
+    "response": "you might be suffering from Oralcandidiasis"
+},
+{
+    "prompt": "i have Asthenia, Numbness, Nausea and vomiting, Awakening early, Hydropneumothorax, Superimposition, Fatigability, Tenesmus, Pain, Slowing of urinary stream",
+    "response": "you might be suffering from Neuropathy"
+},
+{
+    "prompt": "i have Shortness of breath, Hyperkalemia, Pain chest, Fever, Gravida 0, Bleeding of vagina",
+    "response": "you might be suffering from Kidney disease"
+},
+{
+    "prompt": "i have Para 2, Haemorrhage, Abortion, Intermenstrual heavy bleeding, Muscle hypotonia, Hypotonic, Previous pregnancies 2, Shortness of breath, Fever, Heartburn, Primigravida, Abnormally hard consistency, Proteinemia",
+    "response": "you might be suffering from Fibroid tumor"
+},
+{
+    "prompt": "i have Fall, Distended abdomen, Unsteady gait, Paresthesia, Hyponatremia, Agitation, Unconscious state, Burning sensation, Lesion, Mass of body structure",
+    "response": "you might be suffering from Glaucoma"
+},
+{
+    "prompt": "i have Thicken, Tumor cell invasion, Metastatic lesion, Pain neck, Lung nodule, Pain, Pain abdominal, Food intolerance, Mass of body structure, Atypia",
+    "response": "you might be suffering from Neoplasm metastasis"
+},
+{
+    "prompt": "i have Lesion, Prostatism, Constipation, General discomfort, Diarrhea, Pain abdominal, Urinary hesitation, Dizzy spells, Shooting pain, Bradycardia, Vomiting, Systolic ejection murmur, Nausea, Hyperemesis, Polydypsia",
+    "response": "you might be suffering from Malignant tumor of colon"
+},
+{
+    "prompt": "i have Lesion, Prostatism, Constipation, General discomfort, Diarrhea, Pain abdominal, Urinary hesitation, Dizzy spells, Shooting pain, Bradycardia, Vomiting, Systolic ejection murmur, Nausea, Hyperemesis, Polydypsia",
+    "response": "you might be suffering from Carcinoma colon"
+},
+{
+    "prompt": "i have Polyuria, Vomiting, Nausea, Pain abdominal, Milky, Feeling strange, Gurgle, Nervousness, Abdominal tenderness, Regurgitates after swallowing, Vision blurred, Urinary hesitation, Diarrhea, Seizure, Aura",
+    "response": "you might be suffering from Ketoacidosis diabetic"
+},
+{
+    "prompt": "i have Drowsiness, Lip smacking, Myoclonus, Tremor, Phonophobia, Rolling of eyes, Sleepy, Hirsutism, Moody, Muscle twitch, Unresponsiveness, Headache, Ambidexterity, Absences finding, Spasm, Decreased body weight, Tumor cell invasion",
+    "response": "you might be suffering from Tonic-clonic epilepsy"
+},
+{
+    "prompt": "i have Drowsiness, Lip smacking, Myoclonus, Tremor, Phonophobia, Rolling of eyes, Sleepy, Hirsutism, Moody, Muscle twitch, Unresponsiveness, Headache, Ambidexterity, Absences finding, Spasm, Decreased body weight, Tumor cell invasion",
+    "response": "you might be suffering from Tonic-clonic seizures"
+},
+{
+    "prompt": "i have Pulsus\u00a0paradoxus, Gravida 10, Mass of body structure, Lesion, Heartburn, Night sweat, Thicken, Chill, Decreased translucency, Pain abdominal, Dullness, Food intolerance, Distress respiratory, Hypotension",
+    "response": "you might be suffering from Malignant\u00a0neoplasms"
+},
+{
+    "prompt": "i have Hemiplegia, Snore, Unresponsiveness, Productive cough, Dyspnea, Tachypnea, Hyperkalemia, Hypokinesia, Sinus rhythm, General unsteadiness, Bruit, Consciousness clear, Shortness of breath, Lesion, Redness",
+    "response": "you might be suffering from Respiratory failure"
+},
+{
+    "prompt": "i have Mass of body structure, Paraparesis, Fever, Gravida 0, Pain, Pruritus, Mass in breast, Vomiting, Diarrhea",
+    "response": "you might be suffering from Melanoma"
+},
+{
+    "prompt": "i have Pain abdominal, Breath-holding spell, Nausea, Decreased body weight, Sore to touch, Scleral\u00a0icterus, Fever, Myalgia, Hyponatremia, Retch, Mass of body structure, Decreased body weight",
+    "response": "you might be suffering from Gastroenteritis"
+},
+{
+    "prompt": "i have Lesion, Cough, Lung nodule, Shortness of breath, Haemoptysis, Debilitation, Gurgle, Ache, Rale, Night sweat, Decreased translucency, Asthenia, Metastatic lesion, Agitation, Irritable mood",
+    "response": "you might be suffering from Malignant neoplasm of lung"
+},
+{
+    "prompt": "i have Lesion, Cough, Lung nodule, Shortness of breath, Haemoptysis, Debilitation, Gurgle, Ache, Rale, Night sweat, Decreased translucency, Asthenia, Metastatic lesion, Agitation, Irritable mood",
+    "response": "you might be suffering from Carcinoma of lung"
+},
+{
+    "prompt": "i have Energy increased, Suicidal, Hypersomnia, Feeling suicidal, Blanch, Hallucinations auditory, Hallucinations visual, Elation, Verbal auditory hallucinations, Feeling hopeless, Difficulty, Decompensation, Verbally abusive behavior, Suicidal, Feeling suicidal",
+    "response": "you might be suffering from Manic disorder"
+},
+{
+    "prompt": "i have Nightmare, Feeling hopeless, Transsexual, Hallucinations auditory, Irritable mood, Sleeplessness, Agitation, Weepiness, Mood depressed, Scratch marks, Nausea and vomiting, Extreme exhaustion, Side pain, Worry, Enuresis, Homelessness, Nervousness, Ascites, Pruritus",
+    "response": "you might be suffering from Personality disorder"
+},
+{
+    "prompt": "i have Mass of body structure, Splenomegaly, Lesion, Paresis, Tumor cell invasion, Room spinning, Haemorrhage, Thicken, Indifferent mood, Cachexia, Hypothermia, natural, Pain abdominal, Hepatomegaly, Hematocrit decreased, Stupor, Decreased body weight, Shortness of breath, Cough",
+    "response": "you might be suffering from Primary carcinoma of the liver cells"
+},
+{
+    "prompt": "i have Behavior showing increased motor activity, Scar tissue, Dyspnea on exertion, Coordination abnormal, Myalgia, Hypercapnia, Clammy skin, Has religious belief, Room spinning, Moan, Night sweat, Cachexia, Symptom aggravating factors, Dyspnea, Rale, Flushing, Painful swallowing, Arthralgia, Choke, Tenesmus, Constipation",
+    "response": "you might be suffering from Emphysema pulmonary"
+},
+{
+    "prompt": "i have Haemorrhage, Bowel sounds decreased, Decreased stool caliber, Nausea and vomiting, Hunger, Diarrhea, Dizziness, Hyponatremia, Clonus, Pain, Achalasia, Burning sensation, Guaiac positive, Numbness of hand, Wheezing, Cough",
+    "response": "you might be suffering from Hemorrhoids"
+},
+{
+    "prompt": "i have Shortness of breath, Scar tissue, Apyrexial, No known drug allergies, Pain, Productive cough, Throat sore, Dyspnea, Chest tightness, Hypoxemia, Tachypnea, Sensory discomfort, Fever, Vomiting, Rhonchus, Hemiplegia, Fremitus",
+    "response": "you might be suffering from Spasm bronchial"
+},
+{
+    "prompt": "i have Clonus, Egophony, Facial paresis, Aphagia, Muscle twitch, Paralyse, Low back pain, Charleyhorse",
+    "response": "you might be suffering from Aphasia"
+},
+{
+    "prompt": "i have Out of breath, Sedentary, Angina pectoris, Cough, Unhappy, Labored breathing, Hypothermia, natural, Dyspnea, Hematocrit decreased, Wheezing, Hypoxemia, Renal angle tenderness, Feels hot/feverish",
+    "response": "you might be suffering from Obesity morbid"
+},
+{
+    "prompt": "i have Fever, Pain, Urgency of\u00a0micturition, Hematuria, Vomiting, Chill, Diarrhea, Nausea, Pain abdominal, Myalgia, Fever, Chill",
+    "response": "you might be suffering from Pyelonephritis"
+},
+{
+    "prompt": "i have Pleuritic pain, Thicken, Myalgia, Apyrexial, Night sweat, Flare, Shortness of breath, Orthopnea, Abscess bacterial, Hypotension, Cough, Metastatic lesion, Breath sounds decreased, Decreased body weight, Decreased body weight, Pulsus\u00a0paradoxus, Hypokinesia",
+    "response": "you might be suffering from Endocarditis"
+},
+{
+    "prompt": "i have Pericardial friction rub, Dyspnea, Shortness of breath, Hemodynamically stable, Cardiomegaly, Hypotension, Sputum purulent, Facial paresis, Pain, Oliguria, Blackout, Intoxication",
+    "response": "you might be suffering from Effusion pericardial"
+},
+{
+    "prompt": "i have Pericardial friction rub, Dyspnea, Shortness of breath, Hemodynamically stable, Cardiomegaly, Hypotension, Sputum purulent, Facial paresis, Pain, Oliguria, Blackout, Intoxication",
+    "response": "you might be suffering from Pericardial effusion body substance"
+},
+{
+    "prompt": "i have Tremor, Hallucinations auditory, Suicidal, Hoard, Irritable mood, Feeling hopeless, Feeling suicidal, Neologism, Seizure, Homelessness, Sleeplessness, Unconscious state, Panic, Breath sounds decreased, Shortness of breath",
+    "response": "you might be suffering from Chronic alcoholic intoxication"
+},
+{
+    "prompt": "i have Dyspnea, Cardiovascular finding, Cardiovascular event, Haemoptysis, Cough, Hypercapnia, Soft tissue swelling, Prostatism, Agitation",
+    "response": "you might be suffering from Pneumothorax"
+},
+{
+    "prompt": "i have Unsteady gait, Withdraw, Hyponatremia, Verbally abusive behavior, Feeling suicidal, Unresponsiveness, Worry, Drowsiness, Sleepy, Hallucinations auditory, Suicidal, Fever, Diarrhea",
+    "response": "you might be suffering from Delirium"
+},
+{
+    "prompt": "i have Transaminitis, Splenomegaly, Night sweat, Apyrexial, Lesion, Snuffle, Chill, Cough, Monoclonal, Hypocalcemia result, Oliguria, Rhd positive, Distress respiratory",
+    "response": "you might be suffering from Neutropenia"
+},
+{
+    "prompt": "i have Cyanosis, Tachypnea, Para 1, Bradycardia, Breech presentation, Cushingoid facies, Cushingoid\u00a0habitus, Cough, Myalgia",
+    "response": "you might be suffering from Hyperbilirubinemia"
+},
+{
+    "prompt": "i have Uncoordination, Fever, Pleuritic pain, Snuffle, Throat sore, Malaise, Debilitation, Symptom aggravating factors, Chill, Scleral\u00a0icterus, Nasal flaring, Dysuria, Lip smacking, Headache, Sneeze, Snore, Green sputum, Shortness of breath, Distress respiratory, Blackout, Extreme exhaustion",
+    "response": "you might be suffering from Influenza"
+},
+{
+    "prompt": "i have Intoxication, Tremor, Agitation, Suicidal, Homelessness, Prostatism, Lethargy, Seizure, Muscle twitch, Stuffy nose, Feeling hopeless, Heavy legs, Rale",
+    "response": "you might be suffering from Dependence"
+},
+{
+    "prompt": "i have Hypokinesia, Anorexia, Hypertonicity, Shortness of breath, Hypoalbuminemia, Pruritus, Sore to touch, Hemodynamically stable, Facial paresis, Vomiting, Stool color yellow",
+    "response": "you might be suffering from Thrombus"
+},
+{
+    "prompt": "i have Moan, Nausea, Pain abdominal, Murphy's sign, Flatulence, Colic abdominal, Pain, Ascites, Diarrhea, Qt interval prolonged, Cardiovascular finding, Cardiovascular event, Groggy, Sinus rhythm, Gasping for breath, Constipation, Feces in rectum, Abnormally hard consistency",
+    "response": "you might be suffering from Cholecystitis"
+},
+{
+    "prompt": "i have Pain abdominal, Fatigability, Prodrome, Vomiting, Nausea, Myalgia, Hyponatremia, Sore to touch, General discomfort, Dyspnea on exertion, Asterixis, Guaiac positive, Numbness of hand, Headache, Photophobia",
+    "response": "you might be suffering from Hernia\u00a0hiatal"
+},
+{
+    "prompt": "i have Ambidexterity, Vomiting, Dizziness, Numbness, Nausea, Fever, Splenomegaly",
+    "response": "you might be suffering from Migraine disorders"
+},
+{
+    "prompt": "i have Hypoproteinemia, Fatigue, Haemorrhage, Fatigability, Cushingoid facies, Cushingoid\u00a0habitus, Stool color yellow, Colic abdominal",
+    "response": "you might be suffering from Pancytopenia"
+},
+{
+    "prompt": "i have Vomiting, Nausea, Pain abdominal, Pain, Cushingoid facies, Cushingoid\u00a0habitus, Ascites, Thicken, Sore to touch, Diarrhea, Apyrexial, Palpitation",
+    "response": "you might be suffering from Cholelithiasis"
+},
+{
+    "prompt": "i have Vomiting, Nausea, Pain abdominal, Pain, Cushingoid facies, Cushingoid\u00a0habitus, Ascites, Thicken, Sore to touch, Diarrhea, Apyrexial, Palpitation",
+    "response": "you might be suffering from Biliary calculus"
+},
+{
+    "prompt": "i have Left\u00a0atrial\u00a0hypertrophy, Sweat, Sweating increased, Alcohol binge episode, Pressure chest, Scar tissue, Cardiovascular finding, Cardiovascular event, Orthostasis, Shortness of breath, T wave inverted, Vomiting, Pain abdominal",
+    "response": "you might be suffering from Tachycardia sinus"
+},
+{
+    "prompt": "i have Abscess bacterial, Abdomen acute, Air fluid level, Catching breath, Abdominal tenderness, Nausea, Sore to touch, Flatulence, Diarrhea, Mass of body structure, Apyrexial, Constipation, Thicken, Gravida 0, Pain abdominal",
+    "response": "you might be suffering from Ileus"
+},
+{
+    "prompt": "i have Flatulence, Pain, Large-for-dates fetus, Para 1, Vomiting, Lung nodule, Breech presentation, Shortness of breath, Decreased body weight, Immobile, Unsteady gait, Hallucinations visual, Feeling suicidal",
+    "response": "you might be suffering from Adhesion"
+},
+{
+    "prompt": "i have Loose associations, Giddy mood, Feeling hopeless, Agitation, Hallucinations auditory, Irritable mood, Sleeplessness, Neologism, Homicidal thoughts, Disturbed family, Worry, Decompensation, Verbally abusive behavior, Catatonia, Suicidal, Terrify, Blackout, Weepiness, Impaired cognition, Irritable mood, Agitation",
+    "response": "you might be suffering from Delusion"
+},
+{
+    "prompt": "i have Extreme exhaustion, Sleeplessness, Enuresis, Patient non compliance, Feeling hopeless, Hallucinations visual, Bedridden, Bedridden, Prostatism",
+    "response": "you might be suffering from Affect labile"
+},
+{
+    "prompt": "i have Systolic murmur, Frail, Fever",
+    "response": "you might be suffering from Decubitus ulcer"
+}]
